@@ -15,4 +15,16 @@
 *pandas: 讀取及管理資料
 *numpy: 數學函數的運算
 
+ ## D3 : 資料清理數據前處理 | 讀取非csv資料
+ ### dataframe
+  - 把數據儲存為結構化資料
+  - 測試程式碼
+ ### 讀取其他資料型態
+  - txt
+  - Json
+  - mat
+  - 圖像檔
+  - Python
+  - Pickle
+ 
  
