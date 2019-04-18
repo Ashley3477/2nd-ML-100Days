@@ -1,4 +1,6 @@
 # 2nd-ML-100Days
+參賽者 : Ashley Peng
+
 ## D1 : 資料清理數據前處理 | 評估資料
  - Why is it important?
  - What is our goal?
