@@ -29,4 +29,12 @@
   - Python
   - Pickle
  
+ ## D4 : 資料清理數據前處理 | 欄位的資料類型介紹及處理
+ ### 資料類型
+  - 離散變數 & 類別變數
+ #### PandasDataframe
+  - float64:浮點數
+  - int64:整數
+  - 日期、boolean等等
+  
  
